@@ -1,0 +1,10 @@
+server:
+   port: 8081
+
+app:
+  kafka:
+    local-server: localhost:9092
+    topic1-name: twb-test-topic-1
+    group1-id: group-id-1
+    topic2-name: twb-test-topic-2
+    group2-id: group-id-2
