@@ -9,9 +9,12 @@ Spring Boot Kafka Producer and Consumer Example tutorial from scratch.
 4. Create kafka producer to send string and json type messages
 5. Create kafka consumer to receive string and json message.
 
+---
+Exemple on how to create and manage many topic by code source [click here](https://github.com/eugenp/tutorials/blob/master/spring-kafka/src/main/java/com/baeldung/spring/kafka/KafkaTopicConfig.java)
 
 ## Reference
 * https://www.baeldung.com/spring-kafka
+* https://github.com/eugenp/tutorials/blob/master/spring-kafka/
 * https://www.netsurfingzone.com/kafka/spring-boot-kafka-producer-and-consumer-example-step-by-step-guide/
 * https://thepracticaldeveloper.com/spring-boot-kafka-config/
 * https://developer.okta.com/blog/2020/01/22/kafka-microservices
